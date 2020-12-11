@@ -1,5 +1,5 @@
 # Requirements
-- bert-base-uncased.30522.768d.txt [ download here] (https://github.com/google-research/bert) 
+- bert-base-uncased.30522.768d.txt [ download here](https://github.com/google-research/bert) 
 
 Then, run the following:
 
